@@ -61,6 +61,6 @@ Functions to assist in the reading, analysis and plotting of ECG and VCG data
 
 # Live Case Discussion
 
-<p align="center"> <img width="800" src="Case4.png"> </p>
+<p align="center"> <img width="800" src="case4.png"> </p>
 
 <p align="center"> <img width="800" src="Case5.png"> </p>
