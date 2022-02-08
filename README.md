@@ -1,11 +1,11 @@
 # EP Case Presenter
 <h3 align="center">
-	Open-source VR Platform for Medical Education.
+	Open-CME Platform for Medical Education.
 </h3>
 <h1 align="center">
 	<img
 		width="800"
-		alt="XR CME"
+		alt="Open CME"
 		src="case_workflow.jpg">
 </h1>
 <p align="center">
@@ -14,12 +14,12 @@
 	</strong>
 </p>
 
-# XR CME-the Project
-XR CME is a open-source project, it meants to build a VR-powered ** peer-to-peer communiation platform**. 
+# Open CME-the Project
+Open CME is a open-source project, it meants to build a VR-powered ** peer-to-peer communiation platform**. 
 
 We made the project with the intent that it can help bridge to communication hurdles and facilitate smooth and seamingless communications among medical professionals.
 
-Contact us for further information at <a href="https://https://simonche.github.io/">XR CME</a>.
+Contact us for further information at <a href="https://https://simonche.github.io/">Open CME</a>.
 
 # Hardware
 
